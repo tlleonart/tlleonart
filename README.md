@@ -83,29 +83,6 @@
   
 
 <br/>  
-
-
-## Github Stats  
   
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=db3a8b308s2swbophco1k9vyk&cover_image=true&theme=default" /></div>  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
