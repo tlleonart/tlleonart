@@ -46,7 +46,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="49%">
 
 
 
@@ -69,7 +69,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="49%">
 
 
 
