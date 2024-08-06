@@ -5,11 +5,6 @@
 
 ### <div align="center">I'm Tomás, a full-time full-stack developer 👨‍💻 </div>  
   
-
-- 🌱 I’m currently learning Python and R  
-  
-
-- ⚡ Fun fact: I think that maths and arts are brothers  
   
 
 <br/>  
